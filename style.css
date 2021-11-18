@@ -179,10 +179,10 @@ footer {
     text-decoration: none;
     display: flex;
     flex-basis: 100%;
-    font-size: 40px;
+    font-size: 2vw;
     margin: 4px 2px;
     cursor: pointer;
-    border-radius: 30px;
+    border-radius: auto;
     transition: transform 1s;
   }
   .but:hover{
@@ -198,10 +198,10 @@ footer {
     text-decoration: none;
     display: flex;
     flex-basis: 100%;
-    font-size: 40px;
+    font-size: 2vw;
     margin: 4px 2px;
     cursor: pointer;
-    border-radius: 30px;
+    border-radius: auto;
     transition: transform 1s;
   }
   .buttt {
@@ -213,10 +213,10 @@ footer {
     text-decoration: none;
     display: flex;
     flex-basis: 100%;
-    font-size: 50px;
+    font-size: 2vw;
     margin: 4px 2px;
     cursor: pointer;
-    border-radius: 30px;
+    border-radius: auto;
     transition: transform 1s;
   }
   .buttt:hover{
