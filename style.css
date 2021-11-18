@@ -173,6 +173,8 @@ footer {
 .but {
     background-color: rgba(44,6,5,1);
     border: none;
+    border-radius:7%;
+    word-wrap: break-word;
     color: white;
     padding: auto auto;
     text-align: center;
@@ -192,6 +194,8 @@ footer {
   .butt {
     background-color: rgba(44,6,5,1);
     border: none;
+    border-radius:7%;
+    word-wrap: break-word;
     color: white;
     padding: auto auto;
     text-align: center;
@@ -207,6 +211,8 @@ footer {
   .buttt {
     background-color: rgba(44,6,5,1);
     border: none;
+    border-radius:7%;
+    word-wrap: break-word;
     color: white;
     padding: auto auto;
     text-align: center;
