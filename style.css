@@ -188,7 +188,7 @@ footer {
     transition: transform 1s;
   }
   .but:hover{
-    transform: scale(1.2);
+    transform: scale(1.1.25);
     overflow: hidden;
   }
   .butt {
@@ -226,7 +226,7 @@ footer {
     transition: transform 1s;
   }
   .buttt:hover{
-    transform: scale(1.2);
+    transform: scale(1.1.25);
     overflow: hidden;
   }
   #us1{
