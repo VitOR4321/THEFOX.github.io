@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    height: 40vh;
+    height: 30vh;
     width: 100%;
     background: rgb(247,198,90);
     background: linear-gradient(0deg, rgb(247,198,90) 0%, rgba(44,6,5,1) 30%);
