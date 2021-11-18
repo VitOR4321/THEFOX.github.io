@@ -174,31 +174,31 @@ footer {
     background-color: rgba(44,6,5,1);
     border: none;
     color: white;
-    padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: flex;
     flex-basis: 100%;
-    font-size: 40px;
+    padding: 0.25rem 0.35rem;
+    font-size: calc(1rem + 1vw);
     margin: 4px 2px;
     cursor: pointer;
     border-radius: 30px;
     transition: transform 1s;
   }
   .but:hover{
-    transform: scale(1.1.25);
+    transform: scale(1.1.12);
     overflow: hidden;
   }
   .butt {
     background-color: rgba(44,6,5,1);
     border: none;
     color: white;
-    padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: flex;
     flex-basis: 100%;
-    font-size: 40px;
+    padding: 0.25rem 0.35rem;
+    font-size: calc(1rem + 1vw);
     margin: 4px 2px;
     cursor: pointer;
     border-radius: 30px;
@@ -208,12 +208,12 @@ footer {
     background-color: rgba(44,6,5,1);
     border: none;
     color: white;
-    padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: flex;
     flex-basis: 100%;
-    font-size: 40px;
+    padding: 0.25rem 0.35rem;
+    font-size: calc(1rem + 1vw);
     margin: 4px 2px;
     cursor: pointer;
     border-radius: 30px;
