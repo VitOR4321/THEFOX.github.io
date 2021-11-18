@@ -14,7 +14,8 @@ body {
 }
 
 header {
-    height: 30vh;
+    height: auto;
+    overflow:auto;
     width: 100%;
     background: rgb(247,198,90);
     background: linear-gradient(0deg, rgb(247,198,90) 0%, rgba(44,6,5,1) 30%);
@@ -25,7 +26,8 @@ header {
     background: rgb(255,255,255);
     background: linear-gradient(0deg, rgb(247,198,90) 0%, rgba(44,6,5,1) 30%);
     width: 25%;
-    height: 30vh;
+    height: auto;
+    overflow:auto;
     float: left;
 }
 
@@ -33,21 +35,24 @@ header {
     background: rgb(255,255,255);
     background: linear-gradient(0deg, rgb(247,198,90) 0%, rgba(44,6,5,1) 30%);
     width: 25%;
-    height: 30vh;
+    height: auto;
+    overflow:auto;
     float: left;
 }
 .Kontakt {
     background: rgb(255,255,255);
     background: linear-gradient(0deg, rgb(247,198,90) 0%, rgba(44,6,5,1) 30%);
     width: 25%;
-    height: 30vh;
+    height: auto;
+    overflow:auto;
     float: left;
 }
 .logo {
     background: rgb(255,255,255);
     background: linear-gradient(0deg, rgb(247,198,90) 0%, rgba(44,6,5,1) 30%);
     width: 20%;
-    height: 30vh;
+    height: auto;
+    overflow:auto;
     float: left;
 }
 
