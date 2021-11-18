@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    height: 30vh;
+    height: 40vh;
     width: 100%;
     background: rgb(247,198,90);
     background: linear-gradient(0deg, rgb(247,198,90) 0%, rgba(44,6,5,1) 30%);
@@ -186,7 +186,7 @@ footer {
     transition: transform 1s;
   }
   .but:hover{
-    transform: scale(1.2);
+    transform: scale(1.1.25);
     overflow: hidden;
   }
   .butt {
@@ -220,7 +220,7 @@ footer {
     transition: transform 1s;
   }
   .buttt:hover{
-    transform: scale(1.2);
+    transform: scale(1.1.25);
     overflow: hidden;
   }
   #us1{
