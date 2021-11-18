@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    height: 30vh;
+    height: 20vh;
     width: 100%;
     background: rgb(247,198,90);
     background: linear-gradient(0deg, rgb(247,198,90) 0%, rgba(44,6,5,1) 30%);
@@ -25,7 +25,7 @@ header {
     background: rgb(255,255,255);
     background: linear-gradient(0deg, rgb(247,198,90) 0%, rgba(44,6,5,1) 30%);
     width: 25%;
-    height: 30vh;
+    height: 20vh;
     float: left;
 }
 
@@ -33,21 +33,21 @@ header {
     background: rgb(255,255,255);
     background: linear-gradient(0deg, rgb(247,198,90) 0%, rgba(44,6,5,1) 30%);
     width: 25%;
-    height: 30vh;
+    height: 20vh;
     float: left;
 }
 .Kontakt {
     background: rgb(255,255,255);
     background: linear-gradient(0deg, rgb(247,198,90) 0%, rgba(44,6,5,1) 30%);
     width: 25%;
-    height: 30vh;
+    height: 20vh;
     float: left;
 }
 .logo {
     background: rgb(255,255,255);
     background: linear-gradient(0deg, rgb(247,198,90) 0%, rgba(44,6,5,1) 30%);
     width: 20%;
-    height: 30vh;
+    height: 20vh;
     float: left;
 }
 
@@ -130,7 +130,7 @@ footer {
     overflow:auto;
     width: 100%;
     float: left;
-    font-size: 30px;
+    font-size: 4vw;
 
 }
 #dane1
@@ -175,12 +175,12 @@ footer {
     background-color: rgba(44,6,5,1);
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 4px 12px;
     text-align: center;
     text-decoration: none;
     display: flex;
     flex-basis: 100%;
-    font-size: 40px;
+    font-size: 3vw;
     margin: 4px 2px;
     cursor: pointer;
     border-radius: 30px;
@@ -194,13 +194,13 @@ footer {
     background-color: rgba(44,6,5,1);
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 2px 4px;
     text-align: center;
     text-decoration: none;
     display: flex;
     flex-basis: 100%;
-    font-size: 40px;
-    margin: 4px 2px;
+    font-size: 3vw;
+    margin: 2px 1px;
     cursor: pointer;
     border-radius: 30px;
     transition: transform 1s;
@@ -209,13 +209,13 @@ footer {
     background-color: rgba(44,6,5,1);
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 2px 4px;
     text-align: center;
     text-decoration: none;
     display: flex;
     flex-basis: 100%;
-    font-size: 40px;
-    margin: 4px 2px;
+    font-size: 3vw;
+    margin: 2px 1px;
     cursor: pointer;
     border-radius: 30px;
     transition: transform 1s;
