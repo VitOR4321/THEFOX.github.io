@@ -1,4 +1,4 @@
 # THEFOX
-## THEFOX to repozytorium projektu strony internetowej zleconego mi przez firme sprzątającą thefox.
-## Projekt ten był moim pierwszym komercyjnym zleceniem strony internetowej, aktualnie strona znajduje się w internecie pod linkiem thefox.com.pl
-## Do hostingu strony jest używany github pages.
+## THEFOX to repozytorium projektu strony internetowej zleconego mi przez firme sprzątającą Thefox z Gdańska.
+## Strona ta jest moim pierwszym komercyjnym projektem, a zarazem pierwszą stroną napisaną przeze mnie po technikum.
+## Do hostingu strony używam własnego github pages.
